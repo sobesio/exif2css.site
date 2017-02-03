@@ -1,7 +1,7 @@
 {
-  "name": "dokku-webpack-nginx",
+  "name": "exif2css.site",
   "version": "1.0.0",
-  "description": "Build static website with webpack and push to dokku",
+  "description": "A website with demo for exif2css npm package.",
   "main": "index.js",
   "scripts": {
     "test": "zoroaster test",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sobesednik/dokku-webpack-nginx.git"
+    "url": "git+https://github.com/sobesio/exif2css.site"
   },
   "keywords": [
     "webpack",
@@ -19,9 +19,9 @@
   "author": "Anton <anton@sobes.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sobesednik/dokku-webpack-nginx/issues"
+    "url": "https://github.com/sobesio/exif2css.site/issues"
   },
-  "homepage": "https://github.com/Sobesednik/dokku-webpack-nginx#readme",
+  "homepage": "https://github.com/sobesio/exif2css.site#readme",
   "devDependencies": {
     "css-loader": "^0.26.1",
     "extract-text-webpack-plugin": "^2.0.0-rc.2",

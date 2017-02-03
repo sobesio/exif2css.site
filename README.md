@@ -1,2 +1,3 @@
-# dokku-webpack-nginx
-A boilerplate for a website (frontend built with webpack, backend pushed to dokku with nginx-alpine)
+# exif2css.site
+
+[exif2css](https://github.com/Sobesednik/exif2css) demo
